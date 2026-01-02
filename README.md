@@ -2,7 +2,7 @@
 🙋🏻‍♂️💻Ilan, 21 yo, from Lyon - France<br>⚫🔴I'm currently working at Xefi
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilanarfi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:i.arfipro@outlook.fr) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32134955/ilan-arfi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/i.arfipro) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/eRy4Vtayck) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ze_forux) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ilan9903) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ilan9903) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ze_forux)
 
 # 💻 Tech Stack:
@@ -15,7 +15,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Ilan9903&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilan9903&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ilan9903&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <picture>
@@ -24,10 +24,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ilan9903/Ilan9903/main/.github/assets/github-snake.svg" />
 </picture>
 
-# ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ilan9903&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
