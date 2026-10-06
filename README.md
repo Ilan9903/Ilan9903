@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋🏻‍♂️💻Ilan, 21 yo, from Lyon - France<br>⚫🔴I'm currently working at OXIGEN & studing at EPSI
+🙋🏻‍♂️💻Ilan, 21 yo, from Lyon - France<br>I'm currently working at OXIGEN & studing at EPSI
 
 
 ## 🌐 Socials:
